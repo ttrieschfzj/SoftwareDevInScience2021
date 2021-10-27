@@ -1,2 +1,2 @@
-# SoftwareDevInScience2021
-Software Development in Science Workshop 2021
+# Software Development in Science Workshop Repository
+November 2021
