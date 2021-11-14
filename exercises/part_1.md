@@ -40,6 +40,8 @@
 
 * Cloning the forked repository: `git clone https://github.com/<your_GitHub_user_name>/SoftwareDevInScience2021`
 
+* GitHub/git cheat sheet: *https://education.github.com/git-cheat-sheet-education.pdf*
+
 * Gitk documentation: *https://git-scm.com/docs/gitk*
 
 * git push GitHub authentication fails
