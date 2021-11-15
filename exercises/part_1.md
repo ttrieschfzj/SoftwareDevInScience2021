@@ -44,10 +44,10 @@
 
 * Gitk documentation: *https://git-scm.com/docs/gitk*
 
-* git push GitHub authentication fails
+* How to fix error message *"authentication fails"* returned from `git push origin main`
  
-  In August 2021 the support for password authentication was removed. Instead, a personal access token or an SSH key-based secure authentication must be used.
-  - Create a user token: *https://github.com/settings/tokens*
+  In August 2021 GitHub removed the support for password authentication. Instead, a personal access token or an SSH key-based secure authentication must be used.
+  - For creating a user token go to: *https://github.com/settings/tokens*
   - SSH key
     
     - To create an SSH key run:
@@ -56,7 +56,7 @@
     
     - Add the public key to your GitHub account: 
      
-      https://github.com/settings/keys
+      *https://github.com/settings/keys*
     
     - To test SSH access, issue the following command:
       
