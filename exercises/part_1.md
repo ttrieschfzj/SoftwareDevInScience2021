@@ -36,8 +36,6 @@
 
 ## :+1: Hints ##
 
-* Workshop repository: *https://github.com/gtrensch/SoftwareDevInScience2021*
-
 * Cloning the forked repository: `git clone https://github.com/<your_GitHub_user_name>/SoftwareDevInScience2021`
 
 * GitHub/git cheat sheet: *https://education.github.com/git-cheat-sheet-education.pdf*
