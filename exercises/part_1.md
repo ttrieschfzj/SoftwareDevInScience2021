@@ -4,13 +4,13 @@
 
 ## Exercise I: Contribute to a Project
 
-1. Fork the workshop repository to your own GitHub account.
+1. [x] Fork the workshop repository to your own GitHub account.
 
-2. Create a clone of the forked (your) workshop GitHub repository on your local machine.
+2. [x] Create a clone of the forked (your) workshop GitHub repository on your local machine.
 
-3. Create a local branch to work on.
+3. [x] Create a local branch to work on.
 
-4. Apply any changes you like and add them to your local branch.
+4. [x] Apply any changes you like and add them to your local branch.
 
 5. Commit your changes and push them back to your GitHub repository.
 
